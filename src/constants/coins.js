@@ -87,4 +87,9 @@ export default [
         external: true,
         order: 21,
     },
+    {
+        id: 'uno',
+        coinName: 'Unobtanium',
+        url: '../?coin=uno',
+    },
 ];
