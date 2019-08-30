@@ -91,5 +91,6 @@ export default [
         id: 'uno',
         coinName: 'Unobtanium',
         url: '../?coin=uno',
+        order: 120,
     },
 ];
